@@ -1,0 +1,10 @@
+#display {
+    grid-area: result;
+    grid-column: span 4;
+    align-content: center;
+    text-align: right;
+    padding: 15px;
+    background-color: var(--btn1);
+    border-radius: 5px;
+    font-size: 1.3em;
+}

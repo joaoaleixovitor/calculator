@@ -1,0 +1,26 @@
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    * {
+        font-size: 1.3em;
+    }
+    #display {
+        font-size: 1.4em;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    body {
+        background-image: linear-gradient(145deg, var(--bg1), var(--bg2));
+    }
+    #base {
+        width: 30%;
+        box-shadow: 3px 3px 14px rgba(0, 0, 0, 45%);
+        border-radius: 5px;
+    }
+    .button{
+        box-shadow: 0 2.5px 2px rgba(0, 0, 0, .5);
+    }
+    .button:active {
+        transform: translateY(2.5px);
+        box-shadow: none;
+    }
+}

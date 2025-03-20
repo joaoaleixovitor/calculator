@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font: normal bold 1.1em "Kode Mono", monospace;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+main {
+    height: 100%;
+}

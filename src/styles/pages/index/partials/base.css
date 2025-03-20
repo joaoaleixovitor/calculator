@@ -1,0 +1,17 @@
+#base {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-areas:
+    "result result result result"
+    "btn_clear btn_a btn_s btn_m"
+    "btn_7 btn_8 btn_9 btn_d"
+    "btn_4 btn_5 btn_6 btn_dec"
+    "btn_3 btn_2 btn_1 btn_equal"
+    "btn_pl btn_0 btn_pr btn_equal";
+    width: 100%;
+    height: 95vh;
+    gap: 10px;
+    padding: 10px;
+    background-color: var(--base);
+}

@@ -1,0 +1,8 @@
+@import url(../../global.css);
+
+@import url(partials/backgrond.css);
+@import url(partials/base.css);
+@import url(partials/display.css);
+@import url(partials/buttons.css);
+
+@import url(mediaqueries.css);

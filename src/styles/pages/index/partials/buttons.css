@@ -1,0 +1,88 @@
+.button {
+    background-color: var(--btn1);
+    align-content: center;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.special {
+    background-color: var(--btn2);
+}
+
+#btn_clear {
+    grid-area: btn_clear;
+}
+
+#btn_dec{
+    grid-area: btn_dec;
+}
+
+#btn_equal{
+    grid-area: btn_equal;
+    grid-row: span 2;
+    background-color: var(--btn3);
+}
+
+#btn_pr {
+    grid-area: btn_pr;
+}
+
+#btn_pl{
+    grid-area: btn_pl;
+}
+
+#btn_a{
+    grid-area: btn_a;
+}
+
+#btn_s{
+    grid-area: btn_s;
+}
+
+#btn_m{
+    grid-area: btn_m;
+}
+
+#btn_d{
+    grid-area: btn_d;
+}
+
+#btn_9{
+    grid-area: btn_9;
+}
+
+#btn_8{
+    grid-area: btn_8;
+}
+
+#btn_7{
+    grid-area: btn_7;
+}
+
+#btn_6{
+    grid-area: btn_6;
+}
+
+#btn_5{
+    grid-area: btn_5;
+}
+
+#btn_4{
+    grid-area: btn_4;
+}
+
+#btn_3{
+    grid-area: btn_3;
+}
+
+#btn_2{
+    grid-area: btn_2;
+}
+
+#btn_1{
+    grid-area: btn_1;
+}
+
+#btn_0{
+    grid-area: btn_0;
+}

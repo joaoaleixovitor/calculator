@@ -21,13 +21,22 @@ It was created as a learning project to improve my Java skills and better unders
 
 ---
 
-✨ Features
+# ✨ Features
 
 - ✅ Basic mathematical operations
 - ✅ Simple and easy-to-use interface
 - ✅ Developed in Java
 - ✅ Learning-focused project
 - ✅ Programming logic practice
+
+---
+
+# 💻 Technologies
+
+- Java
+- IntelliJ IDEA
+- Apache Maven
+- JavaFX
 
 ---
 

@@ -1,4 +1,4 @@
-~~# 🔢 CALCULATOR
+# 🔢 CALCULATOR
 
 This is a basic calculator with simple arithmetic operators (+ × ÷ -). It was made as a simple project to test my Java skills.
 ---
